@@ -1,0 +1,35 @@
+run:
+
+=== Sistem Manajemen Data Karyawan ===
+1. Tambah Karyawan
+2. Tampilkan Semua Karyawan
+3. Update Karyawan
+4. Hapus Karyawan
+5. Cari Karyawan (by ID)
+0. Keluar
+Pilih menu: 1
+ID: 2
+Nama: jihan
+Jabatan: staff
+Gaji: 10000
+Karyawan berhasil ditambahkan!
+
+=== Sistem Manajemen Data Karyawan ===
+1. Tambah Karyawan
+2. Tampilkan Semua Karyawan
+3. Update Karyawan
+4. Hapus Karyawan
+5. Cari Karyawan (by ID)
+0. Keluar
+Pilih menu: 5
+Masukkan ID karyawan: 2
+ID: 2, Nama: jihan, Jabatan: staff, Gaji: 10000.0
+
+=== Sistem Manajemen Data Karyawan ===
+1. Tambah Karyawan
+2. Tampilkan Semua Karyawan
+3. Update Karyawan
+4. Hapus Karyawan
+5. Cari Karyawan (by ID)
+0. Keluar
+Pilih menu: 
